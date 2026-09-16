@@ -66,7 +66,9 @@ The optimal generation is `x1 = 9` and `x2 = 1`. Generator 1 has the lower unit 
 **Cost display note:** Both scripts currently negate the solver's objective value when printing it (`-res.fun` in Python and `-fval` in MATLAB). Consequently, they display `-21`, although the minimized cost is positive `21`. To display the actual minimum cost, use `res.fun` and `fval` without the minus sign.
 
 ## Developer
-
+<p>
+ <img src="https://venkataswamy.in/images/img1.jpg" alt="Venkat" width="100"> 
+</p>
 **[Venkataswamy R](https://github.com/venkataswamyr)**<br>
 Associate Professor<br>
 Department of Electrical and Electronics Engineering<br>
