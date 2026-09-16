@@ -69,6 +69,7 @@ The optimal generation is `x1 = 9` and `x2 = 1`. Generator 1 has the lower unit 
 <p>
  <img src="https://venkataswamy.in/images/img1.jpg" alt="Venkat" width="100"> 
 </p>
+
 **[Venkataswamy R](https://github.com/venkataswamyr)**<br>
 Associate Professor<br>
 Department of Electrical and Electronics Engineering<br>
